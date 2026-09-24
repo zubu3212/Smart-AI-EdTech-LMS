@@ -21,10 +21,10 @@ Database: SQLite / PostgreSQL
 Authentication:** Role-Based Access Control (Teacher & Student)
 
  📁 Repository Structure
-├── api.py               # FastAPI Backend & Endpoints
-├── database.py          # SQLAlchemy DB Connection
-├── models.py            # Database Models & Tables
-├── ml_recommender.py    # AI Recommendation Logic
-├── index.html           # Frontend Web Application UI
-├── requirements.txt     # Python Dependencies
-└── README.md            # Project Documentation
+├── api.py
+├── database.py
+├── models.py
+├── ml_recommender.py
+├── index.html
+├── requirements.txt
+└── README.md
