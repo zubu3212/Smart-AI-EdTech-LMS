@@ -30,3 +30,15 @@ Authentication:** Role-Based Access Control (Teacher & Student)
 └── README.md
 <img width="1298" height="768" alt="image" src="https://github.com/user-attachments/assets/21bce584-e533-4d46-9400-9553d4587d4e" />
 
+<img width="1402" height="301" alt="image" src="https://github.com/user-attachments/assets/5d9cdcbb-11e5-42fa-87b9-47166193c7aa" />
+
+<img width="1345" height="757" alt="image" src="https://github.com/user-attachments/assets/9361c286-a88a-4ec9-83ca-a3b2ce7df8b9" />
+
+<img width="958" height="840" alt="image" src="https://github.com/user-attachments/assets/6d843737-0c03-415f-b3ab-4c45ff83629f" />
+
+<img width="1428" height="862" alt="image" src="https://github.com/user-attachments/assets/2e0c8b08-e6cb-40f4-8173-a7fd2c430460" />
+
+
+
+
+
