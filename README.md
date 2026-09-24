@@ -28,3 +28,5 @@ Authentication:** Role-Based Access Control (Teacher & Student)
 ├── index.html
 ├── requirements.txt
 └── README.md
+<img width="1298" height="768" alt="image" src="https://github.com/user-attachments/assets/21bce584-e533-4d46-9400-9553d4587d4e" />
+
