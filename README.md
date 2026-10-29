@@ -20,6 +20,13 @@ Frontend: HTML5, CSS3, Vanilla JavaScript, Chart.js
 Database: SQLite / PostgreSQL
 Authentication:** Role-Based Access Control (Teacher & Student)
 
+☁️ Netlify Deployment (Database + API)
+On Netlify the API runs as a serverless function (`netlify/functions/api.mts`) connected to a managed Netlify Database (Postgres). No connection string is needed: Netlify wires up the connection automatically.
+- Schema: `db/schema.ts` (Drizzle ORM). Migrations in `netlify/database/migrations/` are applied automatically on every deploy.
+- After changing the schema, run `npx drizzle-kit generate --name <change_name>` to create a new migration.
+- Local development: `npm install` then `netlify dev`. The frontend calls `/api/...` on the same origin.
+- The Python FastAPI files (`api.py`, `database.py`, ...) remain for running the original backend locally.
+
  📁 Repository Structure
 ├── api.py
 ├── database.py
